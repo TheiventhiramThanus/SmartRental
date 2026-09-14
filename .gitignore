@@ -1,0 +1,11 @@
+node_modules/
+build/
+dist/
+.env
+.env.*
+!.env.example
+*.local
+*.log
+scratch/
+.DS_Store
+Thumbs.db
