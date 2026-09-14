@@ -10,3 +10,12 @@ scratch/
 .DS_Store
 Thumbs.db
 .vercel/
+
+# Native signing and local build artifacts
+*.keystore
+*.jks
+*.mobileprovision
+*.p12
+*.ipa
+*.apk
+*.aab
